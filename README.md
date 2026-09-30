@@ -1,9 +1,4 @@
 <div align="center">
-
-  <img src="./banner.jpg" alt="Cassell Academy Banner" width="100%" />
-
-  <br/><br/>
-
   <img src="./border.png" alt="border" width="450" />
 
   <br/><br/>
